@@ -1,0 +1,13 @@
+{
+  "description": "Closes duplicate tabs",
+  "homepage_url": "https://github.com/KWierso/closedupes",
+  "manifest_version": 2,
+  "name": "Close Duplicate Tabs",
+  "permissions": [
+    "tabs"
+  ],
+  "background": {
+    "scripts": ["closedupes.js"]
+  },
+  "version": "1.0"
+}
